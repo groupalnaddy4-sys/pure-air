@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://majestic-bienenstitch-bf9f66.netlify.app/sitemap.xml
